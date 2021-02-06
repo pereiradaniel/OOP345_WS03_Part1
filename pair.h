@@ -6,8 +6,8 @@
 namespace sdds {
 	template <class V, class K>
 	class Pair {
-		V _value;	// Type of the value.
 		K _key;		// Type of the key.
+		V _value;	// Type of the value.
 	public:
 		// Default constructor.
 		Pair() :_key{ 0 }, _value{ 0 } {};
