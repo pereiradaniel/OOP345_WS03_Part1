@@ -142,6 +142,7 @@
     <ClCompile Include="w3_p1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="pair.h" />
     <ClInclude Include="set.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
